@@ -1,5 +1,5 @@
 # 🕹️ Tic-Tac-Toe - React Game<br>
-[tic-tac-toe-image](images/Tic_tac_toe.svg)<br>
+![tic-tac-toe-image](images/Tic_tac_toe.svg)<br>
 🎯 **A classic Tic-Tac-Toe game built with React**.<br>
 
 This project is part of the official [React](https://react.dev/learn/tutorial-tic-tac-toe) tutorial and focuses on the development of an interactive interface using **reusable components, local state and lifting state up** to manage the game logic.<br>
@@ -15,7 +15,7 @@ This project is part of the official [React](https://react.dev/learn/tutorial-ti
 
 ---
 
-🔧  Installation and Use<br>
+##  🔧  Installation and Use<br>
 1️⃣ Clone the repository<br>
 ```bash
 git clone https://github.com/luismibaro/react-tic-tac-toe.git
